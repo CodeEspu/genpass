@@ -25,7 +25,7 @@ python --version
 git clone https://github.com/tu-usuario/generador-diccionarios.git
 cd generador-diccionarios
 ```
-###3️⃣ Ejecutar el script
+### 3️⃣ Ejecutar el script
 ```
 python generador.py
 ```
@@ -53,5 +53,5 @@ carMi87$
 ## 📄 Licencia
 Este proyecto está bajo la licencia MIT
 
-##📬 Contacto
+## 📬 Contacto
 Si tienes sugerencias o mejoras, ¡haz un pull request o contáctame en GitHub! 🚀
