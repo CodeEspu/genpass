@@ -17,25 +17,21 @@ Este script en Python genera diccionarios de contraseñas basados en patrones co
 
 ### **1️⃣ Requisitos**
 Asegúrate de tener **Python 3.x** instalado. Puedes verificarlo con:
-```sh
+```
 python --version
-2️⃣ Clonar el repositorio
-sh
-Copiar
-Editar
+```
+### **2️⃣ Clonar el repositorio**
+```
 git clone https://github.com/tu-usuario/generador-diccionarios.git
 cd generador-diccionarios
-3️⃣ Ejecutar el script
-sh
-Copiar
-Editar
+```
+###3️⃣ Ejecutar el script
+```
 python generador.py
-⚙️ Ejemplo de Uso
+```
+## ⚙️ Ejemplo de Uso
 El programa solicitará información como nombre, apellidos y fecha de nacimiento:
-
-yaml
-Copiar
-Editar
+```
 Nombre: Juan
 Primer apellido: Pérez
 Segundo apellido: Gómez
@@ -44,12 +40,18 @@ Año de nacimiento (YYYY): 1987
 ¿Cuántos hijos tiene?: 2
 Nombre del hijo: Carolina
 Nombre del hijo: Miguel
-🔹 Salida generada en diccionario.txt:
+```
+### **🔹 Salida generada en diccionario.txt:**
 
-ruby
-Copiar
-Editar
+```
 JuPeGo87
 jupego87!
 CarMi87
 carMi87$
+```
+
+## 📄 Licencia
+Este proyecto está bajo la licencia MIT
+
+##📬 Contacto
+Si tienes sugerencias o mejoras, ¡haz un pull request o contáctame en GitHub! 🚀
